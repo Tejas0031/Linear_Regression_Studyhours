@@ -10,4 +10,4 @@ This project implements **Linear Regression** from scratch in Python (without us
 ## 🔧 How to Run  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Tejas0031repository-name.git
+   git clone https://github.com/Tejas0031/repository-name.git
